@@ -1,0 +1,305 @@
+{
+    "data": {
+        "schedule": [
+            {
+                "dayName": "Luni",
+                "subjects": {
+                    "all": [],
+                    "subgroup1" : [
+                        {
+                            "name": "Limba straina",
+                            "number": 0,
+                            "shortName": "Limba straina",
+                            "classroom": "319",
+                            "block": "4a",
+                            "prof": "G.Ciudin",
+                            "parity": "both",
+                            "meta": null
+                        },
+                        {
+                            "name": "Arhitectura calculutorului si limbaje de asamblare",
+                            "number": 1,
+                            "shortName": "ACLA",
+                            "classroom": "143",
+                            "block": "4",
+                            "prof": "M.Butnaru",
+                            "parity": "both",
+                            "meta": "lab"
+                        }
+                    ],
+                    "subgroup2": [
+                        {
+                            "name": "Limba straina",
+                            "number": 1,
+                            "shortName": "Limba straina",
+                            "classroom": "319",
+                            "block": "4a",
+                            "prof": "G.Ciudin",
+                            "parity": "both",
+                            "meta": null
+                        },
+                        {
+                            "name": "Fundamentele programarii",
+                            "number": 2,
+                            "shortName": "FP",
+                            "classroom": "328",
+                            "block": "4",
+                            "prof": "E.Climenco",
+                            "parity": "both",
+                            "meta": "lab"
+                        },
+                        {
+                            "name": "Fundamentele programarii",
+                            "number": 3,
+                            "shortName": "FP",
+                            "classroom": "328",
+                            "block": "4",
+                            "prof": "E.Climenco",
+                            "parity": "both",
+                            "meta": "lab"
+                        }
+                    ]
+                }
+            },
+            {
+                "dayName": "Marti",
+                "subjects": {
+                    "subgroup1": [
+                        {
+                            "name": "Limba straina",
+                            "number": 0,
+                            "shortName": "Limba straina",
+                            "classroom": "319",
+                            "block": "4a",
+                            "prof": "G.Ciudin",
+                            "parity": "both",
+                            "meta": "incepatori"
+                        }
+                    ],
+                    "subgroup2": [
+                        {
+                            "name": "Arhitectura calculatoarelor si limbaje de asamblare",
+                            "number": 3,
+                            "shortName": "ACLA",
+                            "classroom": "143",
+                            "block": "4",
+                            "prof": "G.Sturza",
+                            "parity": "even",
+                            "meta": "lab"
+                        }
+                    ],
+                    "all": [
+                        {
+                            "name": "Logica computationala",
+                            "shortName": "Logica computationala",
+                            "number": 1,
+                            "parity": "both",
+                            "prof": "A.Niculita",
+                            "block": "4",
+                            "classroom": "213",
+                            "meta": "curs"
+                        },
+                        {
+                            "name": "Arhitectura calculatoarelor si limbaje de asamblare",
+                            "shortName": "ACLA",
+                            "number": 2,
+                            "parity": "both",
+                            "prof": "G.Sturza",
+                            "block": "4",
+                            "classroom": "213",
+                            "meta": "curs"
+                        },
+                        {
+                            "name": "Educatia fizica",
+                            "shortName": "Ed.fiz.",
+                            "number": 3,
+                            "parity": "odd",
+                            "prof": "HZ",
+                            "block": "None",
+                            "classroom": "None",
+                            "meta": null
+                        },
+                        {
+                            "name": "Educatia fizica",
+                            "shortName": "Ed.fiz.",
+                            "number": 4,
+                            "parity": "even",
+                            "prof": "HZ",
+                            "block": "None",
+                            "classroom": "None",
+                            "meta": null
+                        }
+                    ]
+                }
+            },
+            {
+                "dayName": "Miercuri",
+                "subjects": {
+                    "all": [
+                        {
+                            "name": "Logica computationala",
+                            "shortName": "Logica computationala",
+                            "number": 1,
+                            "parity": "both",
+                            "prof": "A.Niculita",
+                            "block": "4",
+                            "classroom": "401",
+                            "meta": "sem"
+                        }
+                    ],
+                    "subgroup1": [
+                        {
+                            "name": "Limba straina",
+                            "number": 0,
+                            "shortName": "Limba straina",
+                            "classroom": "319",
+                            "block": "4a",
+                            "prof": "G.Ciudin",
+                            "parity": "both",
+                            "meta": null
+                        },
+                        {
+                            "name": "Fundamentele programarii",
+                            "number": 2,
+                            "shortName": "FP",
+                            "classroom": "237",
+                            "block": "4",
+                            "prof": "E.Climenco",
+                            "parity": "both",
+                            "meta": "lab"
+                        },
+                        {
+                            "name": "Arhitectura calculatoarelor si limbaje de asamblare",
+                            "shortName": "ACLA",
+                            "number": 3,
+                            "parity": "odd",
+                            "prof": "M.Butnaru",
+                            "block": "4",
+                            "classroom": "213",
+                            "meta": "lab"
+                        }
+                    ],
+                    "subgroup2": [
+                        {
+                            "name": "Limba straina",
+                            "number": 2,
+                            "shortName": "Limba straina",
+                            "classroom": "319",
+                            "block": "4a",
+                            "prof": "G.Ciudin",
+                            "parity": "both",
+                            "meta": null
+                        }
+                    ]
+                }
+            },
+            {
+                "dayName": "Joi",
+                "subjects": {
+                    "all": [
+                        {
+                            "name": "Algebra",
+                            "shortName": "Algebra",
+                            "number": 0,
+                            "parity": "both",
+                            "prof": "A.Topala",
+                            "block": "4",
+                            "classroom": "113",
+                            "meta": "curs"
+                        },
+                        {
+                            "name": "Algebra",
+                            "shortName": "Algebra",
+                            "number": 1,
+                            "parity": "both",
+                            "prof": "A.Topala",
+                            "block": "4",
+                            "classroom": "415",
+                            "meta": "sem"
+                        },
+                        {
+                            "name": "Fundamentele programarii",
+                            "shortName": "Fundamentele programarii",
+                            "number": 2,
+                            "parity": "both",
+                            "prof": "E.Seiciuc",
+                            "block": "4",
+                            "classroom": "401",
+                            "meta": "sem"
+                        },
+                        {
+                            "name": "Fundamentele programarii",
+                            "shortName": "Fundamentele programarii",
+                            "number": 3,
+                            "parity": "both",
+                            "prof": "V.Arnaut",
+                            "block": "4",
+                            "classroom": "113",
+                            "meta": "curs"
+                        }
+                    ],
+                    "subgroup1": [
+                    ],
+                    "subgroup2": [
+                    ]
+                }
+            },
+            {
+                "dayName": "Vineri",
+                "subjects": {
+                    "all": [
+                        {
+                            "name": "Limba straina",
+                            "shortName": "Limba straina",
+                            "number": 0,
+                            "parity": "both",
+                            "prof": "G.Ciudin",
+                            "block": "4a",
+                            "classroom": "319",
+                            "meta": "incepatori"
+                        },
+                        {
+                            "name": "Calcul Diferential",
+                            "shortName": "Calcul",
+                            "number": 1,
+                            "parity": "both",
+                            "prof": "G.Rusu",
+                            "block": "4",
+                            "classroom": "213a",
+                            "meta": "curs"
+                        },
+                        {
+                            "name": "Calcul Diferential",
+                            "shortName": "Calcul",
+                            "number": 2,
+                            "parity": "both",
+                            "prof": "G.Rusu",
+                            "block": "4",
+                            "classroom": "214",
+                            "meta": "sem"
+                        },
+                        {
+                            "name": "Arhitectura calculatoarelor si limbaje de asamblare",
+                            "shortName": "ACLA",
+                            "number": 3,
+                            "parity": "odd",
+                            "prof": "G.Sturza",
+                            "block": "4",
+                            "classroom": "113",
+                            "meta": "curs"
+                        }
+                    ],
+                    "subgroup1": [],
+                    "subgroup2": []
+                }
+            }            
+        ],
+        "lectureTimes": [
+            { "start": "8:00", "end": "9:30" },
+            { "start": "9:45", "end": "11:15"},
+            { "start": "11:30", "end": "13:00"},
+            { "start": "13:30", "end": "15:00"},
+            { "start": "15:30", "end": "17:00"}
+        ]
+    }
+}
